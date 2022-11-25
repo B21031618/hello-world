@@ -9,4 +9,6 @@ char* StrCpy(char* src)
 	ans[len] = '\0';
 	return ans;
 }
+<<<<<<< HEAD
 /*local change*/
+
